@@ -1,2 +1,2 @@
 # StartHack2022
-https://www.starthack.eu/
+[Event Website] (https://www.starthack.eu/)
