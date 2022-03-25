@@ -1,0 +1,300 @@
+personen_im_haushalt_gesamt
+0) Not avable
+1) Einzelhaushalt
+2) Mehrfachhaushalt (2-3)
+3) Mehrfachhaushalt (>3)
+
+
+alterskategorien
+0) Not avable
+1) 46-55
+2) 36-45
+3) 56-65
+4) 26-35
+5) 18-25
+
+
+erwerbssituation
+0) Not avable
+1) vorübergehend arbeitsunfähig
+2) Dauerinvalidität
+3) Arbeit auf Abruf
+4) ohne Arbeit, nicht beim Arbeitsamt gemeldet
+5) Haushalt, familiäre Gründe
+6) in der Lehre
+7) Angestellt, regelmässig
+8) ohne Arbeit, beim Arbeitsamt gemeldet
+9) Beschäft. für Ausgesteuerte
+10) anderes (nicht erwerbstätig)
+11) Rentner/in
+12) Selbstständig
+13) zeitlich befristeter Vertrag
+14) keine Chance auf dem Arbeitsmarkt
+15) Arbeitsintegrationsprogramm
+16) in Ausbildung (ohne Lehrlinge)
+17) Gelegenheitsarbeit
+18) anderes (auf Arbeitssuche)
+19) Angestellt in der eigenen Firma
+20) anderes (erwerbstätig)
+21) weiss nicht (ungültig)
+22) Arbeitsverbot
+
+situazione lavorativa
+0) Non disponibile
+1) Temporaneamente incapace di lavorare
+2) Disattivato in modo permanente
+3) Lavoro su chiamata
+4) Senza lavoro, non iscritto all'ufficio di collocamento
+5) Casa, motivi familiari
+6) in apprendistato
+7) Occupato, regolare
+8) Senza lavoro, registrato presso l'ufficio di collocamento
+9) Occupato per coloro che sono stati interrotti
+10) Altro (non occupato)
+11) Pensionato
+12) Lavoratore autonomo
+13) Contratto temporaneo
+14) Nessuna possibilità sul mercato del lavoro
+15) programma di integrazione del lavoro --> 6
+16) In formazione (senza apprendisti) --> 6
+17) lavoro occasionale --> 3
+18) altro (in cerca di lavoro) --> 15
+19) Impiegato nella propria azienda --> 13
+20) altro (impiegato) --> 17
+21) non so (non valido) --> 16
+22) Vietato lavorare --> 2
+
+personenhaushalt_unterstutzungseinheit
+0) Not avable
+1) 1
+2) 3
+3) >3
+4) 2
+
+
+hochste_abgeschlossene_ausbildung
+0) Not avable
+1) nicht feststellbar
+2) Anlehre
+3) obligatorische Schule
+4) Berufslehre/-schule
+5) Schulbesuch weniger als 7 Jahre
+6) Universität/Hochschule/Fachhochschule
+7) Maturität, Berufsmatura, Diplommittelschule
+8) höhere Fach- und Berufsausbildung
+
+
+produkt_letzte_dossierversion
+0) Not avable
+1) Sozialhilfeleistung
+2) Rückerstattung
+
+
+dossier_art
+0) Not avable
+1) Ausländer/innen
+2) Kopfquote
+3) VA Ausländer/in ab 7 J.
+4) Flüchtling ab 5 J.
+5) Inländer/innen
+6) VA Flüchtling ab 7 J.
+7) Inländer/innen bis 2 J.
+
+
+personenkategorie
+0) Not avable
+1) Alleinstehend
+2) Person mit Kind / Kinder
+3) Paar mit Kind / Kinder
+4) Paar ohne Kind / Kinder
+
+
+in_ch_seit_geb
+0) Not avable
+1) FALSE
+2) TRUE
+
+
+zivilstand
+0) Not avable
+1) geschieden
+2) ledig
+3) verheiratet
+4) verwitwet
+
+
+nationalitat_kategorien
+0) Not avable
+1) EU / EFTA
+2) Asien
+3) Afrika
+4) Restliches Europa
+5) Nordamerika
+6) Schweiz
+7) unbekannt / staatenlos
+8) Südamerika
+
+
+dossierstruktur
+0) Not avable
+1) Sozialhilfe
+
+
+grund_teilzeit
+0) Not avable
+1) keine Vollzeitstelle
+2) Krankheit
+3) Haushalt, familiäre Gründe
+4) in Ausbildung
+5) anderes
+6) behindert/Unfall
+
+
+beschaftigungsgrad
+0) Not avable
+1) Eine Teilzeitstelle (bis 49%)
+2) Mehrere Teilzeitstellen
+3) Vollzeit(90+)
+4) Eine Teilzeitstelle (50-89%)
+5) Vollzeit- und Teilzeitstelle
+6) weiss nicht (ungültig)
+
+
+letzte_berufliche_tatigkeit_kategorie
+0) Not avable or nein
+1) Data
+
+
+erlernter_beruf_kategorie
+0) Not avable or nein
+1) Data
+
+
+------------------------------------------------------------------------
+
+
+
+persone_in_famiglia_totale
+0) Non disponibile
+1) Famiglia singola
+2) Famiglia multipla (2-3)
+3) Famiglia multipla (>3)
+
+
+categorie di età
+0) Non disponibile
+1) 46-55
+2) 36-45
+3) 56-65
+4) 26-35
+5) 18-25
+
+
+
+unità di supporto per la famiglia
+0) Non disponibile
+1) 1
+2) 3
+3) >3
+4) 2
+
+
+istruzione più elevata conseguita
+0) Non disponibile
+1) Non accertabile
+2) Apprendistato
+3) Scuola obbligatoria
+4) Apprendistato/scuola professionale
+5) Frequenza scolastica inferiore a 7 anni
+6) Università/college/università di scienze applicate
+7) Maturità, maturità professionale, diploma di scuola secondaria
+8) Istruzione tecnica e professionale superiore
+
+
+prodotto_ultima_versione_dossier
+0) Non disponibile
+1) Prestazione di assistenza sociale
+2) Rimborso
+
+
+tipo di dossier
+0) Non disponibile
+1) Stranieri
+2) Quota di testa
+3) VA straniero a partire da 7 anni.
+4) Rifugiato da 5 anni.
+5) Nazionali
+6) VA rifugiato da 7 anni.
+7) Cittadini stranieri fino a 2 anni.
+
+
+categoria di persone
+0) Non disponibile
+1) Singolo
+2) Persona con bambino / bambini
+3) Coppia con bambino / bambini
+4) Coppia senza bambini / bambini
+
+
+in_ch_seit_geb
+0) Non disponibile
+1) FALSO
+2) VERO
+
+
+stato civile
+0) Non disponibile
+1) Divorziato
+2) singolo
+3) sposato
+4) vedova
+
+
+nazionalità_categorie
+0) Non disponibile
+1) UE / EFTA
+2) Asia
+3) Africa
+4) Resto d'Europa
+5) Nord America
+6) Svizzera
+7) Sconosciuto / apolide
+8) Sud America
+
+
+struttura del dossier
+0) Non disponibile
+1) Assistenza sociale
+
+
+motivo_tempo_parziale
+0) Non disponibile
+1) Nessun lavoro a tempo pieno
+2) Malattia
+3) Casa, motivi familiari
+4) in formazione
+5) altro
+6) disabile/incidente
+
+
+Livello di occupazione
+0) Non disponibile
+1) Un lavoro a tempo parziale (fino al 49%)
+2) Diversi lavori part-time
+3) Tempo pieno (90+)
+4) Una posizione part-time (50-89%)
+5) Tempo pieno e tempo parziale
+6) Non so (non valido)
+
+
+ultima categoria di occupazione
+0) Non disponibile o no
+1) Dati
+
+
+categoria_occupazione appresa
+0) Non disponibile o no
+1) Dati
+
+
+Tradotto con www.DeepL.com/Translator (versione gratuita)
